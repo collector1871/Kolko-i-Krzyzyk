@@ -2,11 +2,7 @@
 Kółko i krzyżyk w wersji tekstowej - wielkość 3x3.
 Z komputerem nie da się wygrać.
 
-# kompilacja i uruchomienie - 2 komendy:
+### kompilacja i uruchomienie - 2 komendy (Windows-Cygwin/Linux):
 
 	make
 	./kik.exe
-
-# uruchomienie binariów - Linux:
-
-	wine kik.exe
