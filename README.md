@@ -13,4 +13,4 @@ Samo uruchomienie:
 
 ### Screenshot:
 
-![kik.exe](https://github.com/collector1871/Kolko-i-Krzyzyk/blob/master/kik-fota.jpg)
+![kik.exe](https://raw.githubusercontent.com/collector1871/Kolko-i-Krzyzyk/master/kik-fota.jpg)
