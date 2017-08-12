@@ -2,10 +2,12 @@
 
 * technologia: czyste C
 * kod źródłowy:  
-https://github.com/collector1871/Kolko-i-Krzyzyk
+[https://github.com/collector1871/Kolko-i-Krzyzyk][1]
 
 Kółko i krzyżyk w wersji tekstowej - wielkość 3x3.  
 Gracz nie może wygrać: możliwy jest tylko remis lub przegrana.
+
+[1]: https://github.com/collector1871/Kolko-i-Krzyzyk
 
 #### kompilacja i uruchomienie - 2 komendy (Windows-Cygwin lub Linux):
 
